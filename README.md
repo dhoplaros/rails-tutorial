@@ -11,6 +11,9 @@ All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
+## Notice
+I may deviate a little bit from the book, as this is a learning experience for me.
+
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
